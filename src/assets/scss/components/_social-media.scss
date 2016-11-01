@@ -1,0 +1,18 @@
+$social-default-icon-color: #fff;
+$social-default-btn-color: #939393;
+$social-icon-size: 35px;
+$social-icon-border: 2px;
+$social-icon-border-radius: 5px;
+
+.social {
+    width: $social-icon-size;
+    height: $social-icon-size;
+    line-height: $social-icon-size;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    margin: 5px;
+    border-radius: 50%;
+}
